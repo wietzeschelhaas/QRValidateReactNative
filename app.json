@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "name": "qr",
+    "slug": "qr",
+    "android": {
+      "package": "QR.test.com"
+    }
+  }
+}
